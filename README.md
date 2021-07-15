@@ -8,4 +8,4 @@ This bot has fast responses!
 3 : Go back to the server you're in and with your prefix type "arskyhelp
 
 # Links For More Help
-How to get your Discord Token : https://www.youtube.com/watch?v=tI1izqzLQCz
+How to get your Discord Token : https://www.youtube.com/watch?v=tI1lzqzLQCz
